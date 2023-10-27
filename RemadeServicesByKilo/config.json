@@ -1,6 +1,6 @@
 {
   "QBCore": {
-    "Enabled": true,
-    "TreatPlayer": true
+    "Enabled": false,
+    "TreatPlayer": false
   }
 }
